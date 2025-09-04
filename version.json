@@ -1,0 +1,7 @@
+{
+  "latest_version": "1.0.1",
+  "min_required_version": "1.0.0",
+  "download_url": "https://github.com/yourname/yourrepo/releases/download/v1.2.0/HAYABUZA_1.0.1",
+  "release_notes": "แก้ไขบัคต่างๆ, เพิ่มฟีเจอร์ใหม่",
+  "force_update": true
+}

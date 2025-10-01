@@ -2,6 +2,6 @@
   "latest_version": "1.2.1",
   "min_required_version": "1.0.0",
   "download_url": "https://github.com/blptsc01/hayabuza-apk/releases/download/v1.2.1/HAYABUZA_1.2.1.apk",
-  "release_notes": "ปรับราคา VIP , เพิ่มฟีเจอร์ ครบทุกโหมด",
+  "release_notes": "ปรับปรุ่งระบบใหม่ทั้งหมด , ปรับฟังขั่น seekbar",
   "force_update": true
 }
